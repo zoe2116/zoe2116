@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @zoe2116
-- 👀 I’m interested in developing code that brings my imagination to visulaization.
-- 🌱 I’m currently learning computer science engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me faheemzohra6@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+☆ selam! I’m @zoe2116
+☆ I’m really interested in UI/UX design and web development that brings my imagination to visulaization.
+☆ I’m currently learning computer science engineering.
+☆ How to reach me faheemzohra6@gmail.com
 
 <!---
 zoe2116/zoe2116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
